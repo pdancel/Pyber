@@ -1,5 +1,5 @@
 # Pyber 
-Analyzing and visualizing ride share data for urban, suburban, and rural city types.
+Analyzing and visualizing ride share data for urban, suburban, and rural city types. This data contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
 ## Tools Used
 * Pandas
